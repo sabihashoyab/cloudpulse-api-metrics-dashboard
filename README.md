@@ -38,9 +38,3 @@ A full-stack, cloud-native monitoring system that tracks the health and performa
 - Docker & Docker Compose – Containerization and orchestration
 - Ansible – Infrastructure-as-code provisioning
 - GitHub Actions – Continuous Integration & Deployment (CI/CD)
-
-### Set Up Environment
-
-```bash
-export SUPABASE_URL="https://your-project.supabase.co"
-export SUPABASE_KEY="your-service-role-key"
