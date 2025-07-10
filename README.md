@@ -38,10 +38,10 @@ export SUPABASE_KEY="your-service-role-key"
 
 ### Tech Stack
 
-- **Python** – Requests, Scheduler (monitoring agent)
-- **Supabase** – PostgreSQL + REST API (data storage)
-- **Node.js** – Express backend (API server)
-- **Svelte + Plotly.js** – Dashboard UI with real-time data visualization
-- **Docker & Docker Compose** – Containerization and orchestration
-- **Ansible** – Infrastructure-as-code provisioning
-- **GitHub Actions** – Continuous Integration & Deployment (CI/CD)
+- Python – Requests, Scheduler (monitoring agent)
+- Supabase – PostgreSQL + REST API (data storage)
+- Node.js – Express backend (API server)
+- Svelte + Plotly.js – Dashboard UI with real-time data visualization
+- Docker & Docker Compose – Containerization and orchestration
+- Ansible – Infrastructure-as-code provisioning
+- GitHub Actions – Continuous Integration & Deployment (CI/CD)
