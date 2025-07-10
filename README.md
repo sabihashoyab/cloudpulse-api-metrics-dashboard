@@ -30,14 +30,7 @@ A full-stack, cloud-native monitoring system that tracks the health and performa
 - Supabase account (PostgreSQL backend)
 - (Optional) Fly.io or Render for cloud deployment
 
-### Set Up Environment
-
-```bash
-export SUPABASE_URL="https://your-project.supabase.co"
-export SUPABASE_KEY="your-service-role-key"
-
 ### Tech Stack
-
 - Python – Requests, Scheduler (monitoring agent)
 - Supabase – PostgreSQL + REST API (data storage)
 - Node.js – Express backend (API server)
@@ -45,3 +38,10 @@ export SUPABASE_KEY="your-service-role-key"
 - Docker & Docker Compose – Containerization and orchestration
 - Ansible – Infrastructure-as-code provisioning
 - GitHub Actions – Continuous Integration & Deployment (CI/CD)
+
+### Set Up Environment
+
+```bash
+export SUPABASE_URL="https://your-project.supabase.co"
+export SUPABASE_KEY="your-service-role-key"
+
